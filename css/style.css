@@ -8,6 +8,11 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
 }
+#navigation .menu{
+    padding-top: .5%;
+    margin-top:2% ;
+}
+
 
 #navigation .topbar {
     width: 100%;
